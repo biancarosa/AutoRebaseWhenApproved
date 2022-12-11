@@ -1,6 +1,7 @@
 # Auto-rebase
 
-A GitHub Action that automatically rebases pull requests.
+A GitHub Action that automatically rebases pull requests when are approved.
+Based on https://github.com/Label305/AutoRebase.
 
 ## Usage
 
